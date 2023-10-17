@@ -1,0 +1,13 @@
+/*Программа движется вперёд в будущее если being*/
+being int function test (int z, int y) {
+    being return z + y;
+}
+being int p = test (get_value(), 55);
+being print(p);
+
+nothing int function get_value () {
+    nothing return x + y;
+    nothing int x = 5;
+    nothing int y = 5;
+}
+/*Программа движется из будущего в прошлое если nothing*/

@@ -1,0 +1,39 @@
+//Прошлое
+
+//класс существование
+being class Being {
+    
+}
+
+//рождается влад (конкретное бытие)
+being Being vlad = new Being();
+
+//Это всё антиничто вместе взятое, которое удерживает всё вместе-взятое антибытие
+antinothing class AntiNothing {
+
+}
+
+//Это сейчас есть в пространстве и оно блокирует антибытие, которое хочет убить влада
+antinothing AntiNothing anti_nothing_vlad = new AntiNothing();
+
+/*----Где то здесь настоящее находится. Оно скрепляет воедино прошлое и будущее----*/
+// anti_nothing_vlad+nothing_vlad = anti_vlad+vlad
+//Будущее влада - это следствие борьбы антиничто с совокупностью антибытия и отсутствия влада
+while vlad:
+    vlad += anti_nothing_vlad-(anti_vlad+nothing_vlad)
+
+//Это конкретное антибытие которое движется из будущего чтобы убить влада
+antibeing AntiBeing anti_vlad = new AntiBeing();
+
+//Это общее антибытие сейчас движется из будущего в прошлое, чтобы уничтожить всё бытие
+antibeing class AntiBeing {
+    
+}
+
+//Это смерть влада в будущем
+nothing Nothing nothing_vlad = new Nothing();
+
+//Это полное отсутствие чего-либо
+nothing class Nothing {
+    
+}

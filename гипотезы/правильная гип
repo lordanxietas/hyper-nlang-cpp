@@ -1,0 +1,19 @@
+nothing class Nothing {}
+nothing Nothing nothing_vlad = new Nothing();
+antinothing AntiNothing anti_nothing_vlad = new AntiNothing();
+antinothing class AntiNothing {}
+
+/*большой взрыв*/
+
+antibeing class AntiBeing {}
+antibeing AntiBeing anti_vlad = new AntiBeing();
+being Being vlad = new Being();
+being class Being {}
+
+//Получается, большой взрыв был где то в прошлом, время разжалось, и теперь бытие
+наступает как бы из будущего
+
+
+9/10 ничто + 1/10 антиничто = 1/10 бытие + 9/10 антибытие
+
+

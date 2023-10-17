@@ -1,0 +1,14 @@
+/////
+being print(2);
+being function hello () {
+    being return "hello";
+}
+being print(test());
+//////
+
+//\\\\
+В начале исполняется вот этот код
+nothing function test () {
+    nothing return 125 + 15;
+}
+nothing int x = 15;
